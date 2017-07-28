@@ -1,2 +1,3 @@
 # Hello-World
 I would like to learn so much more about coding and web development! Help me explore different options!
+I am in the US Military and im trying to be self-taught in the world of developing. I have explored some different languages like python (just to grasp the basic concepts of programming), java (to test myself and learn a language more challenging), HTML, CSS, and Js. So far I am really enjoying the web developing path and i am looking forward to getting more advanced. I would really like to explore more possibilities and best routes to learn so i can better set myself up for the future and have the confidence in my skills to land a great job.   
